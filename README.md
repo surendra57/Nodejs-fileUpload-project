@@ -14,6 +14,9 @@ Creating a Database using MongoDB Database
 
 For User Authentication used Json Web Token 
 
+#File folder 
+In main directory you find the uploads folder. there all the uploaded files are saved through file upload system.
+
 
 
 
